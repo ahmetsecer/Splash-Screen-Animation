@@ -10,7 +10,7 @@ Welcome to this Flutter project repository, where you'll find a dynamic splash s
 ## Getting Started
 To get started with this project, clone the repository and ensure you have all the necessary dependencies installed. Run the app on your preferred emulator or physical device to see the splash screen in action.
 
-![SplashScreen](https://github.com/ahmetsecer/Splash-Screen-Animation/assets/60434610/e0615af8-f1d6-4f22-9732-01be7619b5e8)
+![SplashScreenNew](https://github.com/ahmetsecer/Splash-Screen-Animation/assets/60434610/6b663138-5a96-4b88-8d44-6ab606e666bb)
 
 ## Customization
 You can customize the splash screen by replacing the Lottie animation files with your own. Adjust the duration of the splash screen or the asynchronous operations to match your app's requirements.
